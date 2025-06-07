@@ -47,14 +47,22 @@ O jogo cria automaticamente um arquivo SQLite chamado `placar.db` com a tabela `
 
 ```
 SnakeGame/
-├── main.py         # Código principal do jogo
-├── placar.db       # Banco de dados SQLite (gerado em tempo de execução)
-├── README.md       # Documentação do projeto
+├── main.py           # Código principal do jogo
+├── placar.db         # Banco de dados SQLite (gerado em tempo de execução)
+├── README.md         # Documentação do projeto
+└── requirements.txt  # Bibliotecas externas requeridas
 ```
 
 ## 📷 Capturas de tela
 
-> (Você pode adicionar imagens em uma pasta `docs/` e referenciá-las aqui)
+### Tela Inicial
+
+![Tela Inicial](docs/print-1.png)
+
+### Durante o Jogo
+
+![Gameplay](docs/print-3.png)
+
 
 ## 📜 Licença
 
